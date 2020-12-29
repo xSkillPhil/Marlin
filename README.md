@@ -1,10 +1,10 @@
-# MPCNC Version for BTT SKR V1.4 with TMC2209 Steppers, Dual Endstop Version - WIP
+# MPCNC Version for BTT SKR V1.4 with TMC2209 Drivers, Dual Endstop Version - WIP
 
 This is a fork from [V1Engineering](https://github.com/V1EngineeringInc/Marlin) considering some changes for the use with an SKR V1.4 Board, TMC2209 Steppers with Dual Endstops.
 
 I found some changes needed from [this Repository](https://github.com/spinne-rw/-MPCNC-with-SKR-1.4-Turbo-2209-TMC-Stepper-DualEndstop) that I included into this fork on the latest Version of Marlin provided by V1Engineering.
 
-THIS IS STILL WORK IN PROGRESS AND UNTESTED!!
+### **THIS IS STILL WORK IN PROGRESS AND UNTESTED!!**
 
 ---
 
